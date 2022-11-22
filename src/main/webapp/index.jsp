@@ -187,7 +187,7 @@
         type="text"
         name="cep"
         id="cep"
-        placeholder="Digite o telefone"
+        placeholder="Digite o CEP"
       />
     </label>
 
@@ -202,7 +202,7 @@
         type="text"
         name="address"
         id="address"
-        placeholder="Digite o telefone"
+        placeholder="Digite o endereço completo"
       />
     </label>
 
@@ -217,7 +217,7 @@
         type="text"
         name="addressComplement"
         id="addressComplement"
-        placeholder="Digite o telefone"
+        placeholder="Digite o complemento"
       />
     </label>
 
