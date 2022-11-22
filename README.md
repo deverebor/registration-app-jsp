@@ -2,7 +2,7 @@
 
 <p align="center">
 
-![app overview](./.github/img/Captura%20de%20tela%20de%202022-10-27%2000-12-02.png)
+![app overview](./.github/images/Captura de tela 2022-11-22 202454.png)
 
 </p>
 
